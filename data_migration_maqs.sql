@@ -1,0 +1,2 @@
+-- RESTAURAR maqs-202511190851.sql en la base de datos maqs
+-- Este  contiene el esquema maqs con toda la informacion migrada de la base de datos anterior.
